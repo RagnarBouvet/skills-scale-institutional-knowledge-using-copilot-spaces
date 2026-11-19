@@ -88,7 +88,7 @@ The Release Manager or Release Coordinator owns release readiness and coordinate
 - Communicate release status, changes, and incident follow-up
 
 ### Decision Authority
-The Release Coordinator decides whether the planned release activities are ready to proceed within the approved release plan, escalates unresolved go/no-go concerns, and coordinates any stop or rollback decision with delivery and operational owners.
+The Release Coordinator decides whether planned release activities are ready to proceed within the approved release plan and escalates unresolved go/no-go concerns to delivery and operational owners.
 
 ### Interactions with Existing Roles
 - Works with Project Managers to align schedules, dependencies, risks, and status reporting.
